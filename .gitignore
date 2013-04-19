@@ -2,7 +2,7 @@
 *.OBJ
 
 # List Files
-*.LST
+#*.LST
 
 # Map files
 *.MAP
